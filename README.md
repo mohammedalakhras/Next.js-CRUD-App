@@ -1,8 +1,4 @@
-# Next.js-CRUD-App
-This project is a simple CRUD (Create, Read, Update, Delete) application built with Next.js. It allows users to manage a list of items, providing functionalities to add new items, view existing ones, edit them, and delete them. The application features a clean and user-friendly interface.
-
-
-# Next.js CRUD App
+    # Next.js CRUD App
 
 ## Overview
 This is a simple CRUD (Create, Read, Update, Delete) application built with Next.js. It allows users to manage a list of items, providing functionalities to add new items, view existing ones, edit them, and delete them. The application features a clean and user-friendly interface.
@@ -17,7 +13,7 @@ This is a simple CRUD (Create, Read, Update, Delete) application built with Next
 ## Technologies Used
 - [Next.js](https://nextjs.org/) - A React framework for server-side rendering and static web applications.
 - [React](https://reactjs.org/) - A JavaScript library for building user interfaces.
-- [CSS Modules](https://github.com/css-modules/css-modules) - For styling components.
+
 
 ## Getting Started
 
@@ -28,7 +24,7 @@ This is a simple CRUD (Create, Read, Update, Delete) application built with Next
 ### Installation
 1. Clone the repository:
 ```
-git clone [https://github.com/mohammedalakhras//Next.js-CRUD-App](https://github.com/mohammedalakhras//Next.js-CRUD-App)
+git clone https://github.com/mohammedalakhras//Next.js-CRUD-App
 ```
 2. Navigate to the project directory:
 ```
